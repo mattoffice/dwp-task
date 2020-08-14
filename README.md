@@ -11,3 +11,7 @@ An api which will return all users either listed as living in London, or as havi
 
 - `npm run test`
 
+## Retrieving matched users
+
+- After starting the Node js/ Express server, matched users should be accessible at 'localhost:3000/'
+
