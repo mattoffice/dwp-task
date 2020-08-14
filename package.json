@@ -1,0 +1,22 @@
+{
+  "name": "dwp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node -r esm dwp-test.js"
+  },
+  "author": "moffice",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "distance-between-geocoordinates": "^1.0.1",
+    "esm": "^3.2.25",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  }
+}
